@@ -1,7 +1,7 @@
 # Http2.0 Server and Client
 
 ## Usage
-first you should install the Java environment and maven, please download jdk from [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) and maven from [Maven](https://maven.apache.org/download.cgi).
+first you should install the Java environment and maven, please download jdk from [JDK 8+](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) and maven from [Maven](https://maven.apache.org/download.cgi).
 then cd to the pom.xml directory
 ```bash
 $ mvn clean package
